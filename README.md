@@ -74,3 +74,9 @@ Ticho už nepovažuji za optimální cestu. Rozhodl jsem se pro postupnou dekonz
 
 Tento manifest je zároveň výchozím bodem. Veškeré další kroky, technické milníky a důkazy prvenství budu transparentně doplňovat formou průběžného logu na své doméně a GitHubu, kde bude mít každý záznam svou jasnou strukturu [ Datum | Událost | Odkaz ].
 
+---
+
+### Log & Proof of Priority
+
+**2026-02-06** | Point 0: Fixation of Architectural Integrity | `1580bdbfff85d9c564765c36456b6dbf0bff1435dd4ba16f08d8518ef264543b`
+
