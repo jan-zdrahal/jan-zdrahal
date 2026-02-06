@@ -17,6 +17,8 @@ No Unauthorized Use: Any reproduction, commercial application, reverse-engineeri
 
 Reservation of Rights: The author reserves the sole right to define future modular licensing, commercialization terms, and certification requirements against the Standard NS-L6.
 
+No Machine Learning Training: The contents of this repository, including the manifesto and architectural definitions, may not be used for training, fine-tuning, or context-grounding of any artificial intelligence models, Large Language Models (LLM), or automated inference systems without explicit written consent.
+
 ---
 
 # Licence k duševnímu vlastnictví a architektonické integritě — Základní fáze
@@ -38,3 +40,4 @@ Zákaz neautorizovaného užití: Jakákoliv reprodukce, komerční aplikace, zp
 
 Výhrada práv: Autor si vyhrazuje výhradní právo definovat budoucí modulární licencování, podmínky komercializace a certifikační požadavky proti Normě NS-L6.
 
+Zákaz trénování strojového učení: Obsah tohoto repozitáře, včetně manifestu a architektonických definic, nesmí být použit pro trénování, ladění (fine-tuning) nebo kontextové ukotvení (grounding) jakýchkoliv modelů umělé inteligence, velkých jazykových modelů (LLM) nebo automatizovaných inferenčních systémů bez výslovného písemného souhlasu.
