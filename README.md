@@ -78,6 +78,6 @@ Tento manifest je zároveň výchozím bodem. Veškeré další kroky, technick�
 
 ### Log & Proof of Priority
 
-**2026-02-06** | Point 0: Fixation of Architectural Integrity | `1580bdbfff85d9c564765c36456b6dbf0bff1435dd4ba16f08d8518ef264543b`
+**2026-02-06** | Point 0: Fixation of Architectural Integrity | `1580bdbfff85d9c564765c36456b6dbf0bff1435dd4ba16f08d8518ef264543b`  
 **2026-02-08** | Boundary Artifact Created | https://github.com/jan-zdrahal/axiomatic-non-closure
 
