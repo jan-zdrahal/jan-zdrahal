@@ -8,7 +8,7 @@ Software architect focused on deterministic systems and responsibility framework
 
 ### Manifest & Provenance
 Author identity and timestamped provenance records:  
-➡ `/manifest/` (this repository)
+https://github.com/jan-zdrahal/jan-zdrahal/tree/main/manifest
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/janzdrahal
