@@ -1,14 +1,23 @@
-# Jan Zdráhal
+# Jan Zdráhal  
 
-Software architect focused on deterministic systems and responsibility frameworks.
+Software architect and engineer.  
 
-### NS-L6 Standard: Human–LLM Responsibility Framework
-- **NS-L6 Standard:** https://github.com/jan-zdrahal/ns-l6-standard  
-- **Official Site:** https://ns-l6.org
+## Formal Specification  
+### Deterministic System Specification  
+https://github.com/jan-zdrahal/deterministic-system-specification  
 
-### Manifest & Provenance
-Author identity and timestamped provenance records:  
-https://github.com/jan-zdrahal/jan-zdrahal/tree/main/manifest
+## Applied Framework  
+### NS-L6 Standard: Human–LLM Responsibility Framework  
+https://github.com/jan-zdrahal/ns-l6-standard  
+https://ns-l6.org  
 
-### Contact
-LinkedIn: https://www.linkedin.com/in/janzdrahal
+## Structural Provenance  
+### Deterministic Ledger  
+https://github.com/jan-zdrahal/deterministic-ledger  
+
+### Manifest  
+https://github.com/jan-zdrahal/jan-zdrahal/tree/main/manifest  
+
+## Contact  
+LinkedIn: https://www.linkedin.com/in/janzdrahal  
+
