@@ -15,6 +15,11 @@ A unified, formally structured responsibility architecture for human–LLM syste
 ### [Deterministic System Specification](https://github.com/jan-zdrahal/deterministic-system-specification)
 Defines the abstract transition semantics of deterministic state-transition systems (v0.1). This architecture-neutral specification establishes the formal deterministic system model `DS = (S, I, R, Valid)`, explicit structural axioms (Domain Restriction, Totality, Uniqueness), and execution semantics independent of any underlying implementation or execution environment.
 
+### [Storage Specification](https://github.com/jan-zdrahal/storage-specification)
+Defines a minimal formal semantic model for storage systems.  
+The specification introduces the **Storage Primitive**, an intentionally weak abstraction for opaque value acceptance and retrieval, and the **Identifier-Based Storage Model**, which formalizes identifier-linked records and query eligibility.  
+Additional behavior and guarantees are introduced through the **Storage Profile Framework**, enabling structured storage models (e.g., key–value stores) without altering the core axioms.
+
 ---
 
 ## ⚙️ Deterministic Stack Infrastructure
