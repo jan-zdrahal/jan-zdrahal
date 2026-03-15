@@ -2,35 +2,61 @@
 
 **Systems Architect | Deterministic Systems & AI Infrastructure**
 
-Author of the NS-L6 Standard and the Deterministic System Specification. My engineering focus lies in establishing deterministic state-transition semantics within AI environments, structurally separating stochastic computational substrates from formally verifiable, deterministic infrastructural state.
+Author of technical standards and specifications in systems architecture, AI infrastructure, and formal responsibility models for human–LLM systems.
+
+My work focuses on deterministic state-transition semantics and on designing infrastructures in which stochastic AI systems operate within formally defined system boundaries.
 
 ---
 
-## 📄 Normative Specifications & Standards
+## Specifications & Standards
 
 ### [NS-L6 Standard](https://github.com/jan-zdrahal/ns-l6-standard)
-**Official Web:** [ns-l6.org](https://ns-l6.org)
-A unified, formally structured responsibility architecture for human–LLM systems. It introduces a seven-layer model (L0–L6) with strict non-invertibility, formal axioms, and mathematically grounded responsibility boundaries.
+
+Official Web: [ns-l6.org](https://ns-l6.org)
+
+The **NS-L6 Standard** defines a formal responsibility framework for human–LLM interaction systems.  
+It introduces a seven-layer model (L0–L6) separating computational processes from human responsibility through the invariants of **observability** and **controllability**.
+
+---
 
 ### [Deterministic System Specification](https://github.com/jan-zdrahal/deterministic-system-specification)
-Defines the abstract transition semantics of deterministic state-transition systems (v1.0). This architecture-neutral specification establishes the formal deterministic system model `DS = (S, I, R, Valid)`, explicit structural axioms (Domain Restriction, Totality, Uniqueness), and execution semantics independent of any underlying implementation or execution environment.
+
+The **Deterministic System Specification** defines the abstract transition semantics of deterministic state-transition systems.  
+It introduces the formal system model `DS = (S, I, R, Valid)` and the structural axioms governing deterministic transitions.
+
+---
 
 ### [Storage Specification](https://github.com/jan-zdrahal/storage-specification)
-Defines a minimal formal semantic model for storage systems.  
-The specification introduces the **Storage Primitive**, an intentionally weak abstraction for opaque value acceptance and retrieval, and the **Identifier-Based Storage Model**, which formalizes identifier-linked records and query eligibility.  
-Additional behavior and guarantees are introduced through the **Storage Profile Framework**, enabling structured storage models (e.g., key–value stores) without altering the core axioms.
+
+The **Storage Specification** defines a minimal formal semantic model for storage systems.  
+It introduces the **Storage Primitive** and the **Identifier-Based Storage Model**, forming a foundation for structured storage profiles.
 
 ---
 
-## ⚙️ Deterministic Ledger Infrastructure
+## Public Registry
 
 ### [Deterministic Ledger](https://github.com/jan-zdrahal/deterministic-ledger)
-An append-only public log serving as a declarative registry for structural artifacts. It provides strict chronological ordering, deterministic hash references, and explicit UTC timestamp context to establish cryptographic proof-of-existence for components within the deterministic architectural stack.
+
+The **Deterministic Ledger** is a public append-only log maintained as a Git repository.  
+It records structural events related to publicly declared artifacts such as specifications, documents, and repository states, providing a chronological record of published work.
 
 ---
 
-## 📬 Contact & Links
+## Identity & Links
 
-* **LinkedIn:** [linkedin.com/in/janzdrahal](https://www.linkedin.com/in/janzdrahal)
-* **ORCID:** [https://orcid.org/0009-0005-2012-1234](https://orcid.org/0009-0005-2012-1234)
-* **Web:** [www.zdrahal.eu](https://www.zdrahal.eu)
+**Web**  
+[www.zdrahal.eu](https://www.zdrahal.eu)  
+**LinkedIn**  
+[linkedin.com/in/janzdrahal](https://www.linkedin.com/in/janzdrahal)  
+**ORCID**  
+[orcid.org/0009-0005-2012-1234](https://orcid.org/0009-0005-2012-1234)  
+
+---
+
+## Engineering Affiliation
+
+### [intercore solutions s.r.o.](https://www.intercore.cz)
+Software engineering, infrastructure architecture, and technology development.
+
+### [CoreMind AI Systems](https://coremind.systems)
+Technical division implementing deterministic AI infrastructure.
