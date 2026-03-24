@@ -33,6 +33,15 @@ It introduces the **Storage Primitive** and the **Identifier-Based Storage Model
 
 ---
 
+### [MatrixCore™](https://github.com/jan-zdrahal/matrixcore-architectural-space-framework)
+
+Official Web: [matrixcore.org](https://matrixcore.org)
+
+The **MatrixCore™** framework defines a formal architectural meta-model for representing systems as structured configurations of artifacts within a multidimensional architectural space.  
+It introduces a deterministic structural foundation separating architectural space, invariants, profiles, and projections, enabling consistent interpretation of heterogeneous systems across domains.
+
+---
+
 ## Public Registry
 
 ### [Deterministic Ledger](https://github.com/jan-zdrahal/deterministic-ledger)
