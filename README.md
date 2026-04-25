@@ -53,7 +53,7 @@ It records structural events related to publicly declared artifacts such as spec
 
 ## Specification Engineering Service
 
-Official Wage: [ses.coremind.systems](https://ses.coremind.systems)
+Official Web: [ses.coremind.systems](https://ses.coremind.systems)
 
 The **Specification Engineering Service** applies the structural principles defined in the above specifications to real-world systems.
 
